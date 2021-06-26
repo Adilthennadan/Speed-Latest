@@ -1,0 +1,550 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bgimg{
+    background-color: #f2f3f4;
+    height: 60px;
+    width: 100%;
+}
+
+.navbar{
+    background-image: linear-gradient(to right, rgb(197, 133, 181) , rgb(78, 101, 202));
+    box-shadow: 1px 1px 5px rgb(66, 66, 66);
+}
+
+ul{
+    list-style: none;
+    margin-top: 15px;
+    margin-right: 35px;
+}
+
+ul li{
+    display: inline-block;   
+}
+
+ul li a{
+    text-decoration: none;
+    padding: 5px 10px;
+    border: 1px solid transparent; border-radius: 20px;
+}
+
+ul li a:hover{
+    background-color: #1c4966;
+    color: white;
+    transition: 0.6s ease;
+}
+
+.nav-item a{
+    font-family: 'Jost', sans-serif;
+    font-size: 18px;
+}
+
+.backfont{
+    font-size: 25px;
+    color: white;
+}
+
+#whatsapplogobutton{
+    height: 80px;
+    width: 170px;
+}
+
+.navbartwo{
+    height: 55px;
+    background-color: blanchedalmond;
+    padding-top: 16px;
+}
+.navbarthree{
+    background-color: #f2f3f4;
+    margin-top: -5px;
+    padding-top: 7px;
+    line-height: 0px;
+    height: auto;
+    
+}
+
+
+
+.navbarthree img{
+    padding: 0;
+    margin-top: -20px;
+}
+
+.products-button-one{
+    margin-top: 20px;
+}
+
+#c{
+    padding: 5px 10px;
+    text-decoration: none;
+    color: darkslategrey;
+    font-family: 'Jost', sans-serif;
+    
+}
+
+#c:hover{
+    background-color: #252f35;
+    color: floralwhite;
+    transition: 0.10s ease;
+    border-radius: 30px;
+}
+
+.Products{
+    background-color: #f2f3f4;
+    height: auto;
+    width: 100%;
+    padding: 20px 0px 0px;
+}
+
+.Productsmobilecover{
+    background-color: #f2f3f4;
+    height: auto;
+    width: 100%;
+    padding: 20px 0px 0px;
+
+}
+
+
+
+.Products h1{   
+    color: rgb(70, 68, 68);
+    text-align: center;
+    padding: 0px;
+    font-size: 35px;
+    font-family: 'Jost', sans-serif;
+}
+.Productsmobilecover h1{   
+    color: rgb(70, 68, 68);
+    text-align: center;
+    padding: 0px;
+    font-size: 35px;
+    font-family: 'Jost', sans-serif;
+}
+
+
+.Productsmagicmirror{
+    background-color: #f2f3f4;
+    height: auto;
+    width: 100%;
+    padding: 20px 0px 40px;
+
+}
+.Productsmagicmirror h1{
+    color: rgb(70, 68, 68);
+    text-align: center;
+    padding: 0px;
+    font-size: 35px;
+    font-family: 'Jost', sans-serif;
+
+}
+
+
+
+.card{
+    margin-top: 40px;
+    
+}
+
+.imgone1{
+    margin-top: 40px;
+    
+}
+
+.card-title {
+    color: rgb(39, 39, 39);
+    font-family: 'Comfortaa', cursive;
+    font-size: 20px;
+    line-height: 0px;
+}
+
+.card-text{
+    font-weight: bold;
+    font-size: 20px;
+    color: brown;
+    line-height: 34px;
+}
+.spoonmug{
+    width: auto;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+}
+#insidecolormugtext{
+    font-size: 18px;
+
+}
+
+.btn{
+    width: 150px;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    position: relative;
+    width: auto;
+    font-family: 'Oswald', sans-serif;
+}
+
+#b{
+    background-color: rgb(66, 101, 134);
+    color: white;
+   }
+
+#b:hover {
+    background-color: rgb(20, 16, 53);
+    color: white;
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,.2);
+}
+
+.spoonmug{
+    float: left;
+}
+
+
+.navbarfour{
+    background-color: #f2f3f4;
+    margin-top: -10px;
+    padding-top: 7px;
+    line-height: 0px;
+}
+
+.navbarfour img{
+    margin-top: -15px;
+}
+
+
+
+
+.footer-top{
+    background-color:  #1b1d30;
+    padding-top: 10px;
+    height: 140px;
+}
+
+footer .row{
+    padding-top: 15px;
+}
+
+.segment-one p{
+    font-family: 'DM Sans', sans-serif;
+    font-size: 16px;
+    line-height: 3px;
+    margin-top: 20px;
+    margin-left: 15px;
+    color: rgb(192, 191, 192);
+}
+
+.segment-three h5{
+    margin-left: 15px;
+    margin-top: 10px;
+    color: rgb(192, 191, 192);
+}
+
+.segment-three a i{
+    font-size: 30px;
+    margin: 15px;
+    margin-top: 0px;
+}   
+
+.segment-three a{
+    color: white;
+}
+
+.segment-three a:hover{
+    color: rgb(255, 136, 0);
+}
+
+.footer-bottom{
+    background-color:  #16161b;
+    height: 65px;
+}
+.footer-bottom p{
+    color: rgb(172, 171, 170);
+    margin: 0;
+    line-height: 23px;
+}
+
+
+
+
+@media(min-width: 992px){
+    .navbarthree{
+        display: none;
+    }
+    .navbarfour{
+        display: none;
+
+    }
+
+    .btn{
+        width: 180px;
+        display: inline-block;
+        text-align: center;
+        text-decoration: none;
+        position: relative;
+    }
+    
+
+    
+}
+
+@media(min-width: 768px) and (max-width: 991px){
+    .navbarfour{
+        display: none;
+    }
+    .imgone1{
+        display: none;
+    }
+    .navbarthree{
+        display: none;
+    }
+    .btn{
+        width: 180px;
+        display: inline-block;
+        text-align: center;
+        text-decoration: none;
+        position: relative;
+    }
+    .navbartwo{
+        height: 70px;
+        background-color: blanchedalmond;
+       
+    }
+    
+}
+
+@media(min-width: 575px) and (max-width: 767px){
+    .navbartwo{
+        height: 70px;
+        background-color: blanchedalmond;
+        display: none;
+    }
+    .navbarthree{
+        display: none;
+    }
+
+
+    #c{
+        margin-top: 8px;
+        text-decoration: none;
+        color: white;
+        font-family: 'Jost', sans-serif;
+        line-height: 40px;
+        background-color: rgb(36, 41, 39);
+        border-radius: 20px;
+    }
+
+    #c:hover{
+        background-color: #20475f;
+        color: floralwhite;
+        transition: 0.10s ease;
+        border-radius: 30px;
+    }
+
+    .footer-top{
+        height: auto;
+    }
+
+    .footer-bottom{
+        height: auto;
+    }
+
+    .imgone1{
+        display: none;
+    }
+
+    .probtn{
+        width: 120px;
+    }
+    
+       
+}
+
+@media(min-width: 480px) and (max-width: 574px){
+    .navbartwo{
+        height: 100px;
+        background-color: blanchedalmond;
+        display: none;
+    }
+    
+    .navbarfour{
+        display: none;
+    }
+
+    #c{
+        margin-top: 8px;
+        text-decoration: none;
+        color: white;
+        font-family: 'Jost', sans-serif;
+        line-height: 40px;
+        background-color: rgb(36, 41, 39);
+        border-radius: 20px;
+    }
+
+    #c:hover{
+        background-color: #20475f;
+        color: floralwhite;
+        transition: 0.10s ease;
+        border-radius: 30px;
+    }
+
+    .footer-top{
+        height: auto;
+    }
+
+    .footer-bottom{
+        height: auto;
+    }
+    .navbartwo{
+        height: auto;
+      }
+
+      .imgone1{
+        display: none;
+    }
+    
+    
+    .woodenkeychain-title{
+        font-size: 18px;
+
+    }
+    .glassphotoframe-title{
+        font-size: 17px;
+
+    }
+    .navbarthree{
+        height: 200px;
+    }
+    
+    
+}
+
+@media(max-width: 479px){
+
+    .navbartwo{
+        height: auto;
+        background-color: blanchedalmond;
+        display: none;
+    }
+    .navbarfour{
+        display: none;
+    }
+
+    #c{
+        margin-top: 8px;
+        text-decoration: none;
+        color: white;
+        font-family: 'Jost', sans-serif;
+        line-height: 40px;
+        background-color: rgb(36, 41, 39);
+        border-radius: 20px;
+        
+    }
+
+    #c:hover{
+        background-color: #20475f;
+        color: floralwhite;
+        transition: 0.10s ease;
+        border-radius: 30px;
+    }
+
+    .footer-top{
+        height: auto;
+    }
+
+    .footer-bottom{
+        height: auto;
+    }
+
+    .navbartwo{
+      height: auto;
+    }
+
+    .imgone1{
+        display: none;
+    }
+
+    .card-title {
+        color: rgb(39, 39, 39);
+        font-family: 'Comfortaa', cursive;
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .card-text {
+        margin-top: -15px;
+        display: none;
+    }
+
+    .card{
+        height: 230px;
+    }
+
+    #b{
+        margin-top: -4px;
+    }
+
+    #insidecolormugtext{
+        font-size: 12px;
+    }
+    .cushion-title{
+        font-size: 14px;
+    }
+
+    .keychain-title{
+        font-size: 13px;
+    }
+
+    .woodenkeychain-title{
+        font-size: 12px;
+
+    }
+    .glassphotoframe-title{
+        font-size: 11px;
+
+    }
+    .woodenframe-title{
+        font-size: 14px;    
+
+    }
+
+    .mobilecover-title{
+        font-size: 14px;    
+    }
+
+    .Products h1{   
+        color: rgb(70, 68, 68);
+        text-align: center;
+        padding: 0px;
+        font-size: 26px;
+        font-family: 'Jost', sans-serif;
+    }
+
+    .Productsmobilecover h1{   
+        color: rgb(70, 68, 68);
+        text-align: center;
+        padding: 0px;
+        font-size: 26px;
+        font-family: 'Jost', sans-serif;
+    }
+
+    .Productsmagicmirror h1{
+        color: rgb(70, 68, 68);
+        text-align: center;
+        padding: 0px;
+        font-size: 26px;
+        font-family: 'Jost', sans-serif;
+    
+    }
+
+    .navbarthree{
+        height: 138px;
+    }
+    
+
+    
+
+}
+
+
